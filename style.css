@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+.tarjeta{
+    background-color: rgb(82, 70, 168);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(8, 5, 88);
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.tarjeta img{
+    height: 200px;
+}
